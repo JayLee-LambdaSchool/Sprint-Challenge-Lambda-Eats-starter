@@ -1,15 +1,5 @@
 import React from 'react';
-import styled from 'styled-components';
-
 import PizzaList from './PizzaList';
-
-const SpecialsStyled = styled.div`
-  width: 100%;
-  height: auto;
-
-  display: flex;
-  padding: 20px;
-`;
 
 const currSpecials = [
   {
